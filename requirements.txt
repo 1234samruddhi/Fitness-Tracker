@@ -1,0 +1,14 @@
+Flask==2.2.2                # For building the web app (if your fitness tracker has a web interface)
+requests==2.28.1            # For making HTTP requests (if the tracker needs to interact with APIs)
+pandas==1.5.3               # For data analysis (e.g., to process fitness data)
+matplotlib==3.6.2           # For plotting graphs (e.g., for visualizing the user's progress)
+numpy==1.23.4               # For numerical computations (e.g., to handle data for fitness tracking)
+SQLAlchemy==2.0.0           # For interacting with the database (if you're saving data like workout logs)
+flask_sqlalchemy==2.5.1     # If using Flask and SQLAlchemy together
+flask-login==0.6.2          # If you plan to include user authentication
+werkzeug==2.2.2             # Required by Flask for handling web requests
+bcrypt==4.0.1               # For securely storing user passwords (if user authentication is needed)
+flask-wtf==1.0.1            # For handling web forms (optional if your project involves forms)
+python-dotenv==1.0.0        # For managing environment variables (useful for API keys or DB connection strings)
+plotly==5.10.0              # For advanced plotting and visualizations
+pytest==7.2.2               # For unit testing the application
