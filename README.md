@@ -29,13 +29,14 @@ This **Personal Fitness Tracker** is a web application that estimates the **calo
 
 ## 📷 Screenshots
 ### 📌 Main Interface
-![Main Interface](screenshots/main_ui.png)
+![Main Interface](main_interface.png)
 
 ### 📌 Input Parameters Section
-![Input Parameters](screenshots/input_params.png)
+![Input Parameters](input1.png)
+![Input Parameters](input2.png)
 
 ### 📌 Predicted Calories Burned
-![Predicted Calories](screenshots/predicted_calories.png)
+![Predicted Calories](predict.png)
 
 ## 📦 Installation Guide
 ### 1️⃣ Clone the Repository
